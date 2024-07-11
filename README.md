@@ -1,0 +1,2 @@
+# javahbmin
+hibernate
